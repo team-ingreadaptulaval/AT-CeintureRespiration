@@ -1,0 +1,153 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 5bd6870d-598f-44db-8dd6-81ffc3a9b2d4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Séparation breakway entre unité de ceinture de respiration et le reste"
+    (at 207.01 20.32 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4c3cfcc3-07db-4531-9ff4-d047dab8dc54)
+  )
+  (text "AUTRE GOGOSSE\nSwitch-1/0\n2X BTN\nVibration\nBuzzer\nLED PWR\nLED Indicator RGB\nSD card\n"
+    (at 203.2 107.95 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6948157d-deab-4319-a457-916cc3f00bc4)
+  )
+  (text "Connector\nUSB-C - programming\nconnector for sensor DIN\nJST PH li-po \n"
+    (at 138.43 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6bc28806-864a-4f57-9bd2-b779ffbfe8d9)
+  )
+  (text "MCU\nFeather datalogger ...\n\n" (at 45.72 120.65 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 987e73d5-22c3-437b-bd65-05dd3222159d)
+  )
+  (text "PSU \n+/- 12V\nLi-Po\nUSB Charge" (at 22.86 44.45 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d7cdcc3e-8fbc-4b28-8df0-d379682c0348)
+  )
+
+  (sheet (at 41.91 110.49) (size 46.99 40.64) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6e64942f-9b80-4043-a53a-e59ed80f674d)
+    (property "Sheet name" "MCU" (id 0) (at 41.91 109.7784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "MCU.kicad_sch" (id 1) (at 41.91 151.7146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 17.78 27.94) (size 46.99 49.53) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9d3e0b47-8e87-4376-882b-766861bc0d28)
+    (property "Sheet name" "PSU" (id 0) (at 17.78 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "PSU.kicad_sch" (id 1) (at 17.78 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 121.92 121.92) (size 50.8 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid ca74d157-3ab4-4e46-ad7f-070895632e65)
+    (property "Sheet name" "CONNECTOR" (id 0) (at 121.92 121.2084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "CONNECTOR.kicad_sch" (id 1) (at 121.92 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 190.5 85.09) (size 45.72 49.53) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid e068877f-5567-4578-99e0-e6d12b23ff79)
+    (property "Sheet name" "DEVICES" (id 0) (at 190.5 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "DEVICES.kicad_sch" (id 1) (at 190.5 135.2046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/9d3e0b47-8e87-4376-882b-766861bc0d28" (page "2"))
+    (path "/6e64942f-9b80-4043-a53a-e59ed80f674d" (page "3"))
+    (path "/ca74d157-3ab4-4e46-ad7f-070895632e65" (page "4"))
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79" (page "5"))
+  )
+
+  (symbol_instances
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/71a1f3bb-85ae-428f-82d0-aa7703804e2f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/a9f7570d-b5a0-43a2-b4cd-7913600b2922"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/d3dddaf1-1a54-46d0-912e-f0a8631ac916"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/0ace37cf-ec6a-4fbe-bc19-4bb420a9ae0a"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/0b2c2407-d6ba-4480-beaa-564117a3b37a"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/8b6ef245-9bbf-448a-b233-c5e3cc0e7349"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/8fadbde1-c3e3-43cb-842c-adf4a995a4d3"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/9a0687e6-3984-4a83-b716-294ec1f483d4"
+      (reference "D?") (unit 1) (value "DIODE") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/b9362a6a-cb53-4b26-a234-a465f04d0ddd"
+      (reference "D?") (unit 1) (value "DIODE") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/2b85b6bd-ee3e-4c56-bd68-70d1b86d0130"
+      (reference "Q?") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/afde607a-197e-4b71-9ae2-b4c56ec8b59c"
+      (reference "Q?") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/2624f569-c415-4101-beb4-112d6b655abe"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/434abe77-337f-4d18-881a-1399818c7b00"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/69b5d6c6-bbb0-4113-9da2-be0e31bf7d99"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/896bd5ff-127d-4565-9e8a-f95d342cd5ec"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/db236e43-ae5b-425f-90d6-92c3057a4db4"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/f3f8d443-7bca-481a-a925-a82ed97f601b"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/1ee4d276-05f2-4fde-9aa3-7bd525d7e457"
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
+    )
+    (path "/9d3e0b47-8e87-4376-882b-766861bc0d28/7edafd27-c660-411f-b3f7-18181c0cadb0"
+      (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
+    )
+    (path "/e068877f-5567-4578-99e0-e6d12b23ff79/892986e3-6c08-4683-9c67-a88193e0d58b"
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
+    )
+  )
+)
