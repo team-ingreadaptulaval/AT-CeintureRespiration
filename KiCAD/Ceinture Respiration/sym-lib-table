@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CeintureRespAT")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbol/CeintureRespAT.kicad_sym")(options "")(descr ""))
+)
