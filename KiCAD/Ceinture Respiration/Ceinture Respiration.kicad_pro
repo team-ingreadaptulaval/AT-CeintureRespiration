@@ -481,6 +481,18 @@
     [
       "5bd6870d-598f-44db-8dd6-81ffc3a9b2d4",
       ""
+    ],
+    [
+      "c778e6e5-e4c6-4658-8d5f-7ddd15204d0f",
+      "MCU"
+    ],
+    [
+      "dcc9ccf0-c9e2-450a-a2d1-88f8aecae68f",
+      "SHIELD_RESPIRATION"
+    ],
+    [
+      "ec449066-5dca-4bee-8f79-430c9744fa18",
+      "DEVICES"
     ]
   ],
   "text_variables": {}
