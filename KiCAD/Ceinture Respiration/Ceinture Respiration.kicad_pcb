@@ -345,10 +345,10 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp bc7d8aa8-6749-4283-8d5c-9cf299efd865))
     (pad "2" smd rect (at 3.6 1.5 90) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 72809b13-950e-4535-a21e-68e8514db482))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305B.wrl"
+    (model "${KIPRJMOD}/Libs/CAD/TL3305BF260QG--3DModel-STEP-613395.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -449,10 +449,10 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 0612eef2-2032-4442-ab2f-4dee96bd4be4))
     (pad "2" smd rect (at 3.6 1.5 270) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 455da31d-3869-4b29-9c1e-799c3fa4b071))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305B.wrl"
+    (model "${KIPRJMOD}/Libs/CAD/TL3305BF260QG--3DModel-STEP-613395.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -553,10 +553,10 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 01430fa4-24c2-4177-99ee-545d434b44c5))
     (pad "2" smd rect (at 3.6 1.5 270) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 75aebc0c-73b5-4b7b-b38b-41cea7b1e157))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305B.wrl"
+    (model "${KIPRJMOD}/Libs/CAD/TL3305BF260QG--3DModel-STEP-613395.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -740,10 +740,10 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp d6bfcb0b-5251-4689-9600-6eded9cb5b79))
     (pad "2" smd rect (at 3.6 1.5 90) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 821d5d75-78da-426b-a107-b73e3efecc26))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305B.wrl"
+    (model "${KIPRJMOD}/Libs/CAD/TL3305BF260QG--3DModel-STEP-613395.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1035,7 +1035,7 @@
     (pad "2" thru_hole circle (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 29 "Net-(D5-A)") (pinfunction "A") (pintype "passive") (tstamp 38e039bc-c76b-415f-8f9c-b9d2ab3ebe6f))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1248,7 +1248,7 @@
     (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 30 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp 8e5761ad-4676-45ff-8c4d-c6e0e3797ac1))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1304,7 +1304,7 @@
     (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 43 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 6528ce5e-d7e3-48f0-aaa9-07b0cba05be7))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
