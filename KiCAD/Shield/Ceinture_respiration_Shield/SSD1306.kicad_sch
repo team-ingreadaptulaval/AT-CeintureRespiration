@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid aaabab19-73b5-438b-ad6d-56fb6cde20a1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "UG-2864HSWEG01\n" (at 128.27 96.012 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 54c2b01f-0b4e-4386-b350-7e1bb075e253)
+  )
+)
