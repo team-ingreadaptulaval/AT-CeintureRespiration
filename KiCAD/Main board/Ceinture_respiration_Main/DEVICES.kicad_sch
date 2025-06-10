@@ -4610,7 +4610,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2886900"
+		(property "LCSC" "C2939211"
 			(at 40.64 44.45 0)
 			(effects
 				(font
@@ -5345,7 +5345,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2886900"
+		(property "LCSC" "C2939211"
 			(at 40.64 30.48 0)
 			(effects
 				(font
@@ -5891,7 +5891,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2886900"
+		(property "LCSC" "C2939211"
 			(at 40.64 69.215 0)
 			(effects
 				(font
@@ -6282,7 +6282,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2886900"
+		(property "LCSC" "C2939211"
 			(at 40.64 57.785 0)
 			(effects
 				(font

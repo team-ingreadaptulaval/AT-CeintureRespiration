@@ -1847,6 +1847,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SDS-80J"
+			(at 42.545 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e511e1e8-5b9b-457f-9aed-77eb302eabac")
 		)
@@ -2407,6 +2416,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SDS-80J"
+			(at 81.28 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e308678e-9195-4559-96d2-b339cd3edba3")
 		)
@@ -2803,6 +2821,15 @@
 			)
 		)
 		(property "LCSC" "C46594429"
+			(at 135.255 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" "MPN"
 			(at 135.255 53.975 0)
 			(effects
 				(font
