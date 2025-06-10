@@ -3176,6 +3176,15 @@
 				)
 			)
 		)
+		(property "MPN" "Grove Conn"
+			(at 222.885 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adfb16d2-cd26-40cd-a993-19d69531f8e2")
 		)
@@ -3397,6 +3406,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "Grove Conn"
+			(at 222.885 128.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3748,6 +3766,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "Grove Conn"
+			(at 222.885 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

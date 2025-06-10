@@ -2233,6 +2233,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "EG1218"
+			(at 134.62 45.085 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "O"
 			(uuid "196da2b4-689b-4ab5-8dd4-94c24de15d6d")
 		)
@@ -2308,6 +2317,15 @@
 		)
 		(property "Digikey" ""
 			(at 151.13 70.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2895472"
+			(at 157.48 72.0725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2935,7 +2953,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2549f02-db1b-4845-8f9c-a4bc83e47808")
 		(property "Reference" "BT1"
-			(at 67.945 40.005 0)
+			(at 67.945 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2943,7 +2961,7 @@
 			)
 		)
 		(property "Value" "BH9VPC"
-			(at 67.945 42.545 0)
+			(at 67.945 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,6 +3032,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BH9VPC or 36-233-ND"
+			(at 67.31 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

@@ -4386,6 +4386,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C2895476"
+			(at 99.3775 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb56cc26-e873-4606-a730-5f538c5c6d76")
 		)
@@ -4601,6 +4610,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C2886900"
+			(at 40.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b77977f7-b19e-4d4e-bec7-17022b14002e")
 		)
@@ -4734,7 +4752,25 @@
 				)
 			)
 		)
-		(property "MPN" "--"
+		(property "MPN" "AOM12864A0-0.96WW-ANO /  ER-OLEDM0.96-1B-SPI-I2C"
+			(at 58.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "AOM12864A0-0.96WW-ANO"
+			(at 58.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "buydisplay.com" "ER-OLEDM0.96-1B-SPI-I2C"
 			(at 58.42 124.46 0)
 			(effects
 				(font
@@ -5309,6 +5345,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C2886900"
+			(at 40.64 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5e649e3-1bd8-40c0-a29c-fd4758c65bff")
 		)
@@ -5713,7 +5758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SD card port"
 			(at 147.955 137.16 0)
 			(effects
 				(font
@@ -5728,6 +5773,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5151738"
+			(at 164.465 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MEM2061-01-188-00-A_REVA"
+			(at 147.955 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5828,6 +5891,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C2886900"
+			(at 40.64 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf5241d0-afae-4b37-9541-d0c5158c6a3d")
 		)
@@ -5894,6 +5966,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C779429"
+			(at 99.3775 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6119,6 +6200,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "VC0720B001F"
+			(at 257.81 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9860342f-608e-492d-96ac-cfcf35384d3f")
 		)
@@ -6190,6 +6280,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C2886900"
+			(at 40.64 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
