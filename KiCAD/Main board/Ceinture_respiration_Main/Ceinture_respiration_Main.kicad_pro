@@ -738,13 +738,13 @@
           "group_by": false,
           "label": "DigiKey",
           "name": "DigiKey",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Digikey",
           "name": "Digikey",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

@@ -629,6 +629,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "2011-1X10G00SB"
+			(at 163.83 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8cbe5ac-9b2c-4c20-b984-29cce661152c")
 		)
